@@ -1,0 +1,905 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "106台灣台北市忠孝東路三段300號",
+      "geometry": {
+        "location": {
+          "lat": 25.0412778,
+          "lng": 121.5430025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04277282989272,
+            "lng": 121.5443541798927
+          },
+          "southwest": {
+            "lat": 25.04007317010728,
+            "lng": 121.5416545201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "5da7f5cc68587b27b96efe942d4bb8a25d49b9df",
+      "name": "Aunt Stella 詩特莉咖啡廳 (Sogo復興店 B3)",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 603,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104750872891900043884/photos\">Aunt Stella 詩特莉咖啡廳 (Sogo復興店 B3)</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAimeHBFAhMhZwtNtfLXVQu7hxams1jen4QXC2M6gCO40W7f5oa8wy5ef95fb1YfbXcfWpA6Ax9vDm9XjC-G49I3Z6yiQc-KsQXDdFCLmgwEvqPaOewmTRMR1stR0g3oKEEhB-ps2_OZwI9KgmOjEDwYNuGhRsZF8UDeuTwsSA-_p6ykJBzxZjNw",
+          "width": 1351
+        }
+      ],
+      "place_id": "ChIJVZX9rtCrQjQRMbDJUCNgE_0",
+      "rating": 4.1,
+      "reference":
+        "CmRbAAAA3XkJC9SYWySXOPhKJYKxkofg7vZD6jw_c1bobD4kOZHUCsfPJP1V3ksUQ8Oj2PomXDQBuJ0OzMNFqLKBPYVKBiLWm5P4ggoNp3SGQ0zZcuG9MKL8Udn1RkJ687LG12XgEhAaMw9mL4KIar-jYjIEVqg_GhShB5JqR9IjcezrxBk23_LrAWgd1w",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路五段538號",
+      "geometry": {
+        "location": {
+          "lat": 25.0416568,
+          "lng": 121.5797547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04306657989272,
+            "lng": 121.5810527798928
+          },
+          "southwest": {
+            "lat": 25.04036692010728,
+            "lng": 121.5783531201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "f5a100acc8c72039977164c9815af7a737820615",
+      "name": "丹堤咖啡",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112928419480899114680/photos\">葉玉珊</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAANp3TD7DflMmI54gEA2NdEbrpJ-51RrpZa7WX-3RG4IYjyAD7yxgCU4gsAxMblfGFnHZd5GWXFycNsEI2048PUdynVxmTSYvWo79-WKr03MMdh_Mz4fwDPF1bvSM9u3dhEhBLxG34uUBizcEZwvDz2tuPGhQaMhdFNLw7cp1xsla0HuE_LPePCg",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJIReDrKGrQjQRTMR2vG-bGHw",
+      "rating": 3.3,
+      "reference":
+        "CmRbAAAA7McGSDNbpS836XXH3PxTZcDtARn_K_zVRDBRII-CKFRvkNPWiHtdeS-AjWaT7EgirenEMMLML91ZOvGcJYPfCAWj4jodPaze4NfIvfpfHOrv5vjDgUYejpstJOhsvgR5EhCfRr1EeSBmXbR2k2krJj2FGhRP0ky5FUsjk-Y7UAnUo96lF2LLKg",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "106台灣台北市大安區忠孝東路四段45號B1",
+      "geometry": {
+        "location": {
+          "lat": 25.042029,
+          "lng": 121.54493
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04320517989272,
+            "lng": 121.5462765798927
+          },
+          "southwest": {
+            "lat": 25.04050552010728,
+            "lng": 121.5435769201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "c5e09f0ad613704ce325d627f75d474fa50b4e46",
+      "name": "Aunt Stella 詩特莉咖啡廳 (SOGO忠孝店 B1)",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 603,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102606656746415309444/photos\">Aunt Stella 詩特莉咖啡廳 (SOGO忠孝店 B1)</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAUNT4Utm8h7435-z5eQzxzv0czZUHyEPHNDJWlzginwOAwukEqTqr_LIDgkOo7H93h-IVAKIGHnMuiXWwNzKWZJHmx6AqyjWFGx3VDDlB65EGKMV5_RBNCyrNWNxKlO-DEhAwVBZhXsWuhFOJEUFNvwzaGhQWpmyASGiltOo-cpesSDWTaD5HGQ",
+          "width": 1351
+        }
+      ],
+      "place_id": "ChIJXcMaetqrQjQRZaDrS_MzkZs",
+      "rating": 4.4,
+      "reference":
+        "CmRbAAAAyxPtP-KgjzVXJyAUW5GO3qhWeOuV7YK5H14346yJfoJhPyHvjcxHKgDCnwalYaGmvHR6P4-M8NKdTv2IFKfmpMD5NADjem3u1djJnYUFDFDvcBWxTUWRVdYdHaNOwtwfEhAS_ARQWgitseQsmxX_vxPYGhSyc6nTnT1vaBpnhOzq-S5s37GOGQ",
+      "types": ["cafe", "store", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "115台灣台北市南港區忠孝東路五段978號",
+      "geometry": {
+        "location": {
+          "lat": 25.0444615,
+          "lng": 121.5824452
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04586697989273,
+            "lng": 121.5837005298927
+          },
+          "southwest": {
+            "lat": 25.04316732010728,
+            "lng": 121.5810008701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "b8384d65380a0017cc87c9fce7186d73f5b88152",
+      "name": "丹堤咖啡館",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106682879020233478975/photos\">christine kitty 靖</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAA0rmZKuM2QOy05BW-Er_AVYwQifUP-7s72xFWj0LUp6VgcTvhlpYZiPheIc_E06HyDSgQjKnOapV8EBuqjGyxWe2pZ-976EVaKuk3S6BmfR9GUjykNDtJQKPywBn9UlyqEhC5pCw4aiP-4X5UKzszQuVbGhRa8AhEL8iWJHDu8OQkwnw0U9_wKA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJqzSkrKGrQjQRBNYn2pDVeiY",
+      "rating": 3.5,
+      "reference":
+        "CmRbAAAAZN7jiKb9Jd62WxDcipGZs1QuI97TrqcpgP-qbCSrJRmUY3qIPe3UCLtDzhvOQzBJ9TIUgkev3P1DQ13nxRk99vJOlQ91V7n9tg1ImZdcIMwdfMIV6Y0dLEpWc87r9KsSEhBAreTMjYoaw3GAZnFJC28UGhQek4u-gXcV1XK27VnK1nskvCIDTw",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路五段439號",
+      "geometry": {
+        "location": {
+          "lat": 25.041093,
+          "lng": 121.57597
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04235082989273,
+            "lng": 121.5773170798927
+          },
+          "southwest": {
+            "lat": 25.03965117010728,
+            "lng": 121.5746174201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "c4f8f39a368703b0ac3548ee7f581f51153efe47",
+      "name": "丹堤咖啡",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109675990507919504547/photos\">Sandy Yeh</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAl8Lp6xUNZ3hHrWUan7C-toPQ7nS1pESy1cAYVXpKUlh4et_hjFy3w1FsQr2W_hvZP6LjArgTPjrn35UnmhpbdQxu7wu8QyBuvqxvt6hwj8xKu419QaBl4DvTYCgZ3lM3EhCkG5yiOmSx6gyfd26b0t5gGhTn50Vpp18cy_zdC27gyW89UJOF9g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJqzSkrKGrQjQRAZeflq3Cfro",
+      "rating": 3.2,
+      "reference":
+        "CmRbAAAA8vcPz0idgxoUvsRlWuP1k8L8u9i7Ux20pYZrKTEj8AgP-e-w-Flg9RobFLKkWXUUn_gKSuM0u-KWiqZZ85MGTuItyk34G9VlAJ2izY41Qg3cbWdQC-LDKkDVG9VQiEngEhC-gAXYKn8n9FrepgOlfsVrGhTE8-nITSRoKV3qGftEEFLy0Eo_zg",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "105台灣台北市松山區民生東路五段69巷2-2號",
+      "geometry": {
+        "location": {
+          "lat": 25.0594575,
+          "lng": 121.5582614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.06080477989272,
+            "lng": 121.5595822298928
+          },
+          "southwest": {
+            "lat": 25.05810512010728,
+            "lng": 121.5568825701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "96a347dcd085b240f69f0e3c1587644feca1b98d",
+      "name": "POLAR CAFE",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106319259105184238791/photos\">曾紀涵</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAA8f7Wjs0MIvIXFAJ6Fut1xnmDLmCLfO0uvxVu0H6flAL7F_q9MSM0-mbtmAXULeMtjXUXxbZs8RT96QdE8zQYuqw1IGMb2LxitZg_86ftv0GGIWS0rOHrSs6G5gkp6GQbEhBk_BfHASNwAlAHshjGlTR6GhSgNF5YP6n3REOYZZV209_6HNCH0A",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJAQAAAMWrQjQRDlkSedRtw08",
+      "rating": 4.1,
+      "reference":
+        "CmRbAAAAYGLZE96_ar6s9SoU8jVA2Wois87Rrdfdoc_z4S1cUyaSNqjAG3u1xH4MOqnAlb4IU1lAPBnWwQzisUfCAVGc_E32-2J6AG08ex6Wis0USf9UMmWQzGRXbopymA6hrT4LEhBF7GxmOkRpRviTqdh9CqgYGhTtACZIsc-8O386bPFg0RYUIi-jmg",
+      "types": ["cafe", "store", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "106台灣台北市大安區忠孝東路四段16號77 巷 號",
+      "geometry": {
+        "location": {
+          "lat": 25.0423578,
+          "lng": 121.5471158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04370762989272,
+            "lng": 121.5484656298927
+          },
+          "southwest": {
+            "lat": 25.04100797010728,
+            "lng": 121.5457659701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "c12e8b5186694474f81fd2ce522dd7014528c74d",
+      "name": "外帶先咖啡",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110497395788116081705/photos\">Wenny Wu</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAA-xxG2ro00wbal_Sj9fAjoZI97jWMYsBveLojfs-3LBAb_ew6eCoYpfaWx-ZSTHBPAQE79LK4XojL6Q-hct3_76UiRMgywyVpbW4Wc1RDW5kVNYBksYe_tLqbpk-_As1cEhCmHafd2a-DCUkapOC0yFf0GhS06QoU4hX0f5Wfds5nnDD17OBGmQ",
+          "width": 852
+        }
+      ],
+      "place_id": "ChIJRzCIv9qrQjQRgsPJgrlM4pg",
+      "rating": 4.4,
+      "reference":
+        "CmRbAAAA1VWV6nSvZoK74x0mWbztjLMNiKgBuiYYR894i3y4MZegOu2eoh-qpHKEj44YmTomKpLyHw_Q5Q5vC7KIJxmPGioWgK_xRl4CLWNk-S218Z70ijj6y6FphuuK8FybTFDIEhDwz4udesQlmqbW4jx5-4XdGhSr9ryCH1laQXP7rrHcfLzFGeDfrQ",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "11, Sinji, Taibei, 忠孝東路四段553巷46弄台灣 110",
+      "geometry": {
+        "location": {
+          "lat": 25.044332,
+          "lng": 121.563468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04561477989272,
+            "lng": 121.5648162798927
+          },
+          "southwest": {
+            "lat": 25.04291512010728,
+            "lng": 121.5621166201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "701807a40e648d31af5374e430d83ea44acd0aff",
+      "name": "日常生活",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110480284354889750565/photos\">Pearl Hung</a>"
+          ],
+          "photo_reference":
+            "CmRZAAAAsR5vkOj3nlF-bTqo06p2LKl9Y19F-VD6fcOW6slRddbtuxvr0ay4wYn7f8um2SxuQfVxjTIiThCRDGsEpflmGRem7ISyUghKCXYHkMzaBsBH4P_vSt-hg0HEUIn6O335EhD0wM59AeDlysrwox9c-6J1GhQ4s2H-Z-AdUd2nQFw_20aAu145lQ",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJO8aURL-rQjQRkI7Nu-82q00",
+      "rating": 4.4,
+      "reference":
+        "CmRbAAAA-IRlKUAI4ocNCZdj8Dd7wqSsHVjgzVB5C9tz0BMPBwDGeJNMUqXUK5Vrg-yE59WJIpCV6zUYEegBe0oOZoqqH0pFfyufimHtFiviYU1LExwCVWVJuYkAAERVJ6Kf7RQaEhB-RVJ52rKBVrUld4dckJYLGhRHWptsiublaUzbqfUKVIAZEbOU6A",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路五段159號",
+      "geometry": {
+        "location": {
+          "lat": 25.041239,
+          "lng": 121.568526
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04252207989272,
+            "lng": 121.5698764298927
+          },
+          "southwest": {
+            "lat": 25.03982242010728,
+            "lng": 121.5671767701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "f00a8dae1ceefb4b16c08960d7e69484f316fbcd",
+      "name": "金鑛咖啡",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 749,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100029575946844812690/photos\">陳秀英</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAcUu6VCdj0n1wodsVvy3K1HnoEtJi0NuAlTa3vPDW_NlT5pNJ1CYEwyWPk3NRxo_k1Raypk7AC4owveIkgRgBWN9Evsk10W19u31hMU7GDulJt0GIfuQ8RTqhGZuHk-Q7EhBBc5xSG9g7a4BPdjATRFAjGhSzt1r5OVGjiuD8M0SIvmvrbdySmw",
+          "width": 1332
+        }
+      ],
+      "place_id": "ChIJkX78f7urQjQRmcqdOuht4EI",
+      "rating": 3.7,
+      "reference":
+        "CmRbAAAAcQ9NswOCPU3Yg3aV8nWpPF9VUjocEY5E-EUbpiR0W7_A7t2KiQ9YP6DLDGXPJG5ERFFoDfJzNxazlCQlI_vetYYxpHd5HMHxrUFinTbrofa63wczlwTwpz4EhE_ijQTPEhB2cEI84VzKIDH1tT3eJiNMGhTRkkJRiQu5ZG51JQCadAy0h-Vc9g",
+      "types": [
+        "cafe",
+        "bakery",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路五段71巷12弄3號",
+      "geometry": {
+        "location": {
+          "lat": 25.0420319,
+          "lng": 121.5670169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04338172989272,
+            "lng": 121.5683667298927
+          },
+          "southwest": {
+            "lat": 25.04068207010728,
+            "lng": 121.5656670701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "5169bfe00f39289cd61e044fbaf100874076df61",
+      "name": "Mucho Happiness",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101380301280265148452/photos\">Alice Chiu</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAANdCtPUX4LQKMTWU4QKk2bKkeHZ0ivQHgCW_7pGUZm1Bv5i19isdHXpNn6uPksl-5I4vULBr1ZELySNUYrwxJU_9R3B9wvq9-h1z38UCVVsWAgQ0sWYXQMcXiuSeW_LanEhASePqLAyegEDlXUCrwJVlRGhSthAYtGFC3qBDpiqgTySmqXu3MdQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJubjdWbmrQjQRlFhpLmXWEC4",
+      "rating": 4.2,
+      "reference":
+        "CmRbAAAAvl1iDtaqofB5GAdpvNMdV4hLFJn5UtrEZxzJezeXmVloHBsL_tisbjcGOJpsH1KFo7oT4BRiV85oj9iJmVwQxLjDy1ojnUBQqnXcgES9d9248TWph3YAFZgWO_62JDi2EhBxv60n4pw7SSSLGENn0WmeGhTahu-jOon_XbHY5z5UdkOiE3OfZA",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路五段71巷9號",
+      "geometry": {
+        "location": {
+          "lat": 25.0418649,
+          "lng": 121.5673693
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04321427989273,
+            "lng": 121.5687414798928
+          },
+          "southwest": {
+            "lat": 25.04051462010728,
+            "lng": 121.5660418201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "a8d33ea5595aae4866bde3b0d01923231bf2b61a",
+      "name": "La Bon Café",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100454176039796939123/photos\">Gordon Ou</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAApaXtdeFm3KER9vJ7qsl5s2f0y_8EontYW2ppk04mdp4JayRFHfrkJNVtYwIaZgcTiGYRpG9QF9CxiXjTtcEjF5JipfWj88xMyBeVeFxNjw3py6Nb_kGDPhKTBuPNHCl4EhCpjuGDB7RMtejgSUhbUFn7GhR2TLIgCa84OsvSCgtqE-NB9qw5dg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJx3IwcbyrQjQRpNwOPkVw3XQ",
+      "rating": 3.5,
+      "reference":
+        "CmRbAAAA75EqTU0z2A00y8nT5kheSjX3-VILc0uPKYiFIF7HIgPmfef1KoGaXl-llztjoHOT7MXA7KE8aM0Qn_eQ-Xxqg00ZIM4Jky0bZduEOgCjqGl7RfNWjJ6oG6HIogFtJ3VLEhC9XTHBYVebznM0eZRzlQY2GhSzqeJp5DGj_ZLeaGRcU8uwBZWfiw",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "110台灣信義區台北市信義區忠孝東路5段 291號",
+      "geometry": {
+        "location": {
+          "lat": 25.041107,
+          "lng": 121.571713
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04245682989273,
+            "lng": 121.5730628298927
+          },
+          "southwest": {
+            "lat": 25.03975717010728,
+            "lng": 121.5703631701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "923745eabf01a777d1d907fc26c021989e388f64",
+      "name": "怡客咖啡 忠孝店",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116409706907572863097/photos\">Chen Kitty</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAARhN_rhqpsG-5xmh8m-VG87T4qiTfNBM8a_O9QxEqm6tufuyDEy8yg14YNwhD1lrVGXTyeG3VdPSY5NVqmL1FUzgobXeIuv4WhJejrZ1Yyn5L0oRUdgBcpnoxa3wMksJyEhB-ITpGT5nr4VmcDTHuU5VVGhQoPmT9zBUmfSej5mxCEQhoBRSsXg",
+          "width": 4224
+        }
+      ],
+      "place_id": "ChIJP72-UaOrQjQR3TpH8QB8pAo",
+      "rating": 3.6,
+      "reference":
+        "CmRbAAAAjXabler2VRQjAaHxX2FcfE8z6nuycFt2XnqSyvY1KDvkP5WC4cJY_iS-2TlD2FdGbFyVsFvKsMReTdoY40cz7v1i4oxb3Gn1GWm4PgdbLMvQc2fOVmpuCQDS7clzLgJqEhD7MyjJ93yEODn9woBrVYb4GhQE-ydMRihiAMQo3deOdxm1KuM-Pg",
+      "types": ["cafe", "store", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address":
+        "號, No. 49-1忠孝東路四段553巷22弄信義區台北市台灣 110",
+      "geometry": {
+        "location": {
+          "lat": 25.043339,
+          "lng": 121.563305
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04464842989272,
+            "lng": 121.5646535298928
+          },
+          "southwest": {
+            "lat": 25.04194877010728,
+            "lng": 121.5619538701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "682f119599d25885578b79f838322bb0101863c7",
+      "name": "FUJI FLOWER CAFE",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102624038319971999936/photos\">Kiyoto 小宏</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAASgEMST1-pbr2meUsQpslDU3tzAqkYzyYH4UoYyAE6Fj2Yku9oFoe2AVA1G_PdHjnLLaOQ_SbpMWv13_QfmNEYwN-lAgL3NsR8VMGStYtajcSa3Cq68fV0X7RAns0mK1zEhCNp9T5nYcnOMF_56KxcgNoGhQ5-geoSHhi9NCIq0WeOFH7Fas1Sw",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJg8Lg2r6rQjQRdxE6iklSJnY",
+      "rating": 4.2,
+      "reference":
+        "CmRbAAAAkPBW45eyF4u0ONTx2jp9GiwkugnU3y6sr5czvN8fThhmqf0HO0FmYokaldwxunIZ8njtn1dGWmnuPAEHR9-zsexd-Cqr3jpjtei1KLqWF83J_d-ei2iJg1XyOLB8Rm9PEhAwGYqHMTGPWq_SH367PyB0GhQjgBVs-rpoN2DNpwGnRKcTayC7JQ",
+      "types": [
+        "cafe",
+        "florist",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "10654台灣台北市大安區忠孝東路三段251巷4弄1號1樓",
+      "geometry": {
+        "location": {
+          "lat": 25.0423934,
+          "lng": 121.5415627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04374322989272,
+            "lng": 121.5429125298928
+          },
+          "southwest": {
+            "lat": 25.04104357010728,
+            "lng": 121.5402128701073
+          }
+        }
+      },
+      "icon":
+        "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "d6c2888097e9502be2f1934103e14479a50a98fe",
+      "name": "Lying Café 徠飲咖啡",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2620,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112791554475052606871/photos\">Zen Liao</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAx9cxBPXEOkzGD4ImCAekV5TuGZ8qstC8uJp1QPUMrK8v3csUuxeOU3OJnSWVVHwjSbS_cooQ4-dkpgchbGx19dgsaO3OENfwdqbnC5AvGDmDTahlTplGXr21BxQ_DKBaEhAbHncp6BsOiZMjVoCetb5_GhRMEcP2T5vTQlGlpN5r0toZTuTXlA",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJvf3o4dmrQjQRnxcdyKT-fNA",
+      "rating": 4.2,
+      "reference":
+        "CmRbAAAA5IDnzt8qS5e2etZIm-Uu455L4vyBPNNTFTv9RUEMKGg2USetW-dvzGY7PI_IIXGSXd4FjdB2GA_voJv_Bxn4LLo3TUINMWqjnDHw1mPIZtoq6bbs5GDEDIntPFmGtx8IEhAEHoiFS6dgI4HXByt17gzeGhTJO1JsGGqjHSYNzDeApA-8n5WqPA",
+      "types": [
+        "cafe",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路四段553巷16弄7號",
+      "geometry": {
+        "location": {
+          "lat": 25.0428255,
+          "lng": 121.5633061
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04412402989272,
+            "lng": 121.5646544298928
+          },
+          "southwest": {
+            "lat": 25.04142437010727,
+            "lng": 121.5619547701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "498f8892f37150ea798608853fa166f9084c8844",
+      "name": "好聊咖啡",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114005879843448075742/photos\">YouWay Chung</a>"
+          ],
+          "photo_reference":
+            "CmRZAAAAINaZKXEfG4kRRxgt7c4Jq3ZE-kZNaDqkMYUrwS2QfnhZrPBJ0pU1gYWzphHkXPUEwunoWHcbG3U50giRJ_kz2y8_2f5meW5OVPB_70z27o-0Vh3jLTweTxIMNB1qFOjvEhAFdurFE7Z-V2SXHVrlvyRLGhRwWbgMUAWn60OTb91cKAbIpUZC8Q",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJyfUi0r6rQjQRvIgVttOsEHc",
+      "rating": 3.8,
+      "reference":
+        "CmRbAAAArU7cIDn9-Fs03-E9mL-SQN5zu2qL7VRJQNg6Gd_DR7YMDV5yJwZFwzujCLAKbH5Dkyl5w9gZ-M8WfpSGdmfsLI_eQAogCoPBKBtPmBtNA-0YwmPK6DfZVuSbHLfOe87OEhC_4GRnBSyKzlW3XXX6NoaAGhTdpBGzKqoCCoRcOm6YBhfwqBGwew",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路五段183號2樓",
+      "geometry": {
+        "location": {
+          "lat": 25.041238,
+          "lng": 121.569169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04258782989272,
+            "lng": 121.5705188298927
+          },
+          "southwest": {
+            "lat": 25.03988817010728,
+            "lng": 121.5678191701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "f50634594f5b429fd5d6fd2fa018a92facae9edf",
+      "name": "巢 nido",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114750287611181562538/photos\">巢 nido</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAA9XS3I5rUrCwsHOnW2eCrU7fVOcXBArKzFMnjdWbXsglbr5jWbGac6EYKgP-lqJW2Ec-XiBmc6uVOfVHbMGHRIlKV9s7AM6wkwT-rioc7t7y0hD0okJKVZVPnrPX3iWDqEhDe_9KOPtDBxoj3FZbl8gCmGhQ77IMRmo6I-cGM7JRSUX4Ys90zhQ",
+          "width": 1620
+        }
+      ],
+      "place_id": "ChIJDaeJz76rQjQRfxW8mGe_dCA",
+      "rating": 4.4,
+      "reference":
+        "CmRbAAAA9bPzvrURfCClljlxiU0ShjazpEgli6mcDAPkF9xEqef-hRWeMFB-LpW0RgckiHObDGEtkC4FznNKCxbJn5cW2DKBJKbh2J1aqHw-dgJo3ErP3hlEjKxO0NHPEFqxY6mDEhBn82C3fUSCwgCScEbJY9PyGhT4YJvwplBFhlB0rvF1fIAMG9yfUw",
+      "types": ["cafe", "store", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "106台灣台北市大安區忠孝東路四段170巷5弄22號",
+      "geometry": {
+        "location": {
+          "lat": 25.0406834,
+          "lng": 121.5516427
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04209952989272,
+            "lng": 121.5529939798927
+          },
+          "southwest": {
+            "lat": 25.03939987010728,
+            "lng": 121.5502943201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "44046659b9f2183991f979ce4648f4a8c6a051db",
+      "name": "RAY CAFE 阿拉比卡手烘咖啡",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109810141274992319032/photos\">A Google User</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAM4IZKza_GCPLQzeD_g9rbJdlaMptQkqK8TEN-B9SZA11OuKa7uz28I8jAmNOjkTUMaOybQjQXHr5JFGYCDI2I4pzL2LQ-37NjeYOi0gk-SDgxWmIm5zQ7yEuF-qwk6PoEhDI_wP05nbD99Qpp0Aot2jGGhTGRWrx_R9gGTVQTV6U7P6FT_LKWQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbaVNn9CrQjQRW6UJ1tg9EEQ",
+      "rating": 4.1,
+      "reference":
+        "CmRbAAAAHoMv3hvazaCc4vAlPA_jdE1NusRBVZzSlkSY_nTB35sfjxIaE6a0747uHPPDqdjWPubq3IsPxHLipVQbJVErjQVBp9RtL3MBsdi5pF-qlajxx8tcNe2DLQIck507624WEhAoLrRhPOK2awjKMCsjhPrSGhRn7vSayyfTR9w1oITWwr0KsjD5hA",
+      "types": ["cafe", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "formatted_address": "110台灣台北市信義區忠孝東路四段553巷6弄14-1號",
+      "geometry": {
+        "location": {
+          "lat": 25.042201,
+          "lng": 121.563421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04358302989272,
+            "lng": 121.5647717298927
+          },
+          "southwest": {
+            "lat": 25.04088337010728,
+            "lng": 121.5620720701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "1de5030ac236b92ee186d5df65a9582b0f06e611",
+      "name": "BLAnC",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100454176039796939123/photos\">Gordon Ou</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAACMbXYZFj_tOscgiQfX8e4S99jJOVWU0Zm1uIqx6TK_pdFjym5sG-3HNqw4bAY9Zn3ktSFxiIS2S4t7QxQ5VzsuSkITsz5GsbO4SwQxr5ChT8wT6U6n3DK74M1dgEq_gdEhB1BUCoayrIdrr05G-_eXTxGhQ4HPOrQOpUAfZUAXb4EZeJ_ZekPA",
+          "width": 2700
+        }
+      ],
+      "place_id": "ChIJU9QFMrmrQjQRnd9b8NYrCw4",
+      "rating": 4.3,
+      "reference":
+        "CmRbAAAAwufTSRLN_GVeifKSGMgGWTL2OzaQzOLgOh4xeYpYI8NrLxtbsaq-fl3UOtisMYEYL9hlSMher27Lr5u0cOpi2fC7HO6Z3yHPe6BxB186dbGusBwKeCmM1C4lAIZ3-U3WEhCiAeAVdh-SjT9-TpvIEpydGhQL96-9Yt8YoHdu81v4bmIIsZo85A",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "106台灣台北市大安區忠孝東路四段200號(明曜百貨5F)",
+      "geometry": {
+        "location": {
+          "lat": 25.0412749,
+          "lng": 121.552047
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04268622989272,
+            "lng": 121.5533974298927
+          },
+          "southwest": {
+            "lat": 25.03998657010728,
+            "lng": 121.5506977701073
+          }
+        }
+      },
+      "icon":
+        "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "424f8c50e0a827992b67c4386b916c535c8fb0f0",
+      "name": "Mövenpick Café-莫凡彼台北明曜店",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106982372964737635471/photos\">Stephen Lee</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAQ6mWpQ8kEkQSNmEGYi7sszZona9EI8Yess0jEt8QSULkMbdzjthjbU6azOQnqq51vi2s6gDSIjzjEeowcvZp3P8pjCrWF7mgEeqCXpwCX_Qyb5LhiuBak-xjlFsr7yQfEhBPPOt7DvWu8QsIvg9HoQ5AGhSD7tS3eTpEncJBJn-Q3FUPcYCtUw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-_PRosWrQjQRCmfAeTwxd14",
+      "rating": 3.7,
+      "reference":
+        "CmRbAAAArMSVgWHoSkO8g5TuXRehBa7JbqaJDFdkDTOIPV2hVm-KquGy0kxr0KqNLWJWPsIJ_PVUYgvY1NrGCt4inWlCDf3p3q1BTqW8PAstjAj6wix5VN34q_tneoI9mO4nWb9fEhA-hN53kGZrNhDN6xaXPu23GhRXL2oLhqP3I9wMnb3J9ERWaVdyjw",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "formatted_address": "106台灣台北市大安區忠孝東路三段251巷2弄15號",
+      "geometry": {
+        "location": {
+          "lat": 25.0421449,
+          "lng": 121.54081
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 25.04345212989273,
+            "lng": 121.5421602298927
+          },
+          "southwest": {
+            "lat": 25.04075247010728,
+            "lng": 121.5394605701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "06f27cdbbf2c6e2000b79586076ab55dcb52ba25",
+      "name": "慢歩調",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113687123166894133515/photos\">張瑜庭</a>"
+          ],
+          "photo_reference":
+            "CmRaAAAAboU0Ze2lhTknPcTKR22H5U2IufxCB6keIfZ3nBoX46syR_pnjzX-9IUxQw7glHczZYpjfrWN-Rkdeea-RJFRA-KNiPBS4HnOGtLGW39vtK5KxE_hAtC2HnRXxgXpqB7BEhCgtSfKSjWmAVNJ-dU7LL0HGhQ-Ulat-mnHqOtMxxYNe7Xft76Rcg",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJzYopoCjRDRQR3jD4LdAaKt8",
+      "rating": 3.4,
+      "reference":
+        "CmRbAAAADnfsDDu1orr3ATbJr8TjM4CB8nu-HFerOPsd3meFftMMmEX_bQLct8e9GHxOBKMtWe2sdGdGZbD-rEmdMnxBujK0orFSUxlsdaH_dRebYTke9TYleYYrs9LgoJoiqaaSEhCldicvyjsNxEW1Z017G0kBGhTEZ7HSyc7L_WL9bgrr2LNlN8jeIw",
+      "types": ["cafe", "store", "food", "point_of_interest", "establishment"]
+    }
+  ],
+  "status": "OK"
+}

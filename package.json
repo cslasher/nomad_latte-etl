@@ -1,0 +1,12 @@
+{
+  "name": "nomad_latte_ETL",
+  "version": "1.0.0",
+  "description": "ETL services",
+  "main": "index.js",
+  "author": "Edwin Liu <cslasher@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "firebase": "^4.12.1"
+  }
+}
