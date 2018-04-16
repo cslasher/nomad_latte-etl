@@ -7,6 +7,8 @@ const requestData = {
   type: 'cafe'
 };
 
+const pagetoken = '';
+
 const saveStores = stores => {
   for (const store of stores) {
     database
@@ -18,8 +20,24 @@ const saveStores = stores => {
   }
 };
 
-getStores(requestData)
-  .then(({ pagetoken, stores }) => {
-    saveStores(stores);
+const processStores = async (requestData, pagetoken = '') => {
+  const result = await getStores(requestData);
+
+  saveStores(result.stores);
+  return result.pagetoken;
+};
+
+// 0~19
+processStores(requestData)
+  .then(pagetoken => {
+    if (pagetoken) {
+      // 20~39
+      processStores({ ...requestData, pagetoken }).then(pagetoken => {
+        if (pagetoken) {
+          // 40~59
+          processStores({ ...requestData, pagetoken });
+        }
+      });
+    }
   })
-  .catch(err => console.log(err));
+  .then(console.log('done'));
