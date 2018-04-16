@@ -1,13 +1,25 @@
-const data = require('./data/data3.json');
+// const data = require('./data/data3.json');
 const { database } = require('./config/Firebase');
+const { getStores } = require('./mapsApi/MapsApi');
 
-for (const store of data.results) {
-  database
-    .ref('stores')
-    .push(store)
-    .catch(err => {
-      console.log(err);
-    });
-}
+const requestData = {
+  query: '忠孝東路',
+  type: 'cafe'
+};
 
-console.log(`${data.results.length} added.`);
+const saveStores = stores => {
+  for (const store of stores) {
+    database
+      .ref('stores')
+      .push(store)
+      .catch(err => {
+        console.log(err);
+      });
+  }
+};
+
+getStores(requestData)
+  .then(({ pagetoken, stores }) => {
+    saveStores(stores);
+  })
+  .catch(err => console.log(err));
