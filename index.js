@@ -1,4 +1,3 @@
-// const data = require('./data/data3.json');
 const { database } = require('./config/Firebase');
 const { getStores } = require('./mapsApi/MapsApi');
 
