@@ -1,4 +1,5 @@
-var argv = require('minimist')(process.argv.slice(2));
+const GeoFire = require('geofire');
+const argv = require('minimist')(process.argv.slice(2));
 const { database } = require('./config/Firebase');
 const { getStores } = require('./mapsApi/MapsApi');
 
@@ -10,7 +11,7 @@ if (argv['q']) {
   requestData.query = argv['q'];
 }
 const pagetoken = '';
-
+const geoFire = new GeoFire(database.ref('geoFire'));
 const saveStores = stores => {
   for (const store of stores) {
     database
@@ -20,6 +21,10 @@ const saveStores = stores => {
       .catch(err => {
         console.log(err);
       });
+    geoFire.set(store.id, [
+      store.geometry.location.lat,
+      store.geometry.location.lng
+    ]);
   }
 };
 
@@ -44,3 +49,13 @@ processStores(requestData)
     }
   })
   .then(console.log('done'));
+
+// database.ref('stores').once('value', snapshot => {
+//   const stores = snapshot.val();
+//   for (key in stores) {
+//     geoFire.set(key, [
+//       stores[key].geometry.location.lat,
+//       stores[key].geometry.location.lng
+//     ]);
+//   }
+// });
