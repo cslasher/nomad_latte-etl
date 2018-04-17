@@ -11,20 +11,21 @@ if (argv['q']) {
   requestData.query = argv['q'];
 }
 const pagetoken = '';
+const storesRef = database.ref('stores');
 const geoFire = new GeoFire(database.ref('geoFire'));
 const saveStores = stores => {
   for (const store of stores) {
-    database
-      .ref('stores')
+    storesRef
       .child(store.id)
       .set(store)
       .catch(err => {
         console.log(err);
       });
-    geoFire.set(store.id, [
-      store.geometry.location.lat,
-      store.geometry.location.lng
-    ]);
+    geoFire
+      .set(store.id, [store.geometry.location.lat, store.geometry.location.lng])
+      .catch(err => {
+        console.log(err);
+      });
   }
 };
 
@@ -36,19 +37,17 @@ const processStores = async (requestData, pagetoken = '') => {
 };
 
 // 0~19
-processStores(requestData)
-  .then(pagetoken => {
-    if (pagetoken) {
-      // 20~39
-      processStores({ ...requestData, pagetoken }).then(pagetoken => {
-        if (pagetoken) {
-          // 40~59
-          processStores({ ...requestData, pagetoken });
-        }
-      });
-    }
-  })
-  .then(console.log('done'));
+processStores(requestData).then(pagetoken => {
+  if (pagetoken) {
+    // 20~39
+    processStores({ ...requestData, pagetoken }).then(pagetoken => {
+      if (pagetoken) {
+        // 40~59
+        processStores({ ...requestData, pagetoken });
+      }
+    });
+  }
+});
 
 // database.ref('stores').once('value', snapshot => {
 //   const stores = snapshot.val();
