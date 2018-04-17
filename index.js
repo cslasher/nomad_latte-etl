@@ -48,13 +48,3 @@ processStores(requestData).then(pagetoken => {
     });
   }
 });
-
-// database.ref('stores').once('value', snapshot => {
-//   const stores = snapshot.val();
-//   for (key in stores) {
-//     geoFire.set(key, [
-//       stores[key].geometry.location.lat,
-//       stores[key].geometry.location.lng
-//     ]);
-//   }
-// });
