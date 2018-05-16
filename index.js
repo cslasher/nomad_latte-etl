@@ -10,6 +10,9 @@ const requestData = {
 if (argv['q']) {
   requestData.query = argv['q'];
 }
+if (argv['t']) {
+  requestData.type = argv['t'];
+}
 const pagetoken = '';
 const storesRef = database.ref('stores');
 const geoFire = new GeoFire(database.ref('geoFire'));
