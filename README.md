@@ -8,7 +8,7 @@
 
 #### Configurations
 
-Set up (or use .env) for the follow environment variables:
+Set up (or use .env) for the following environment variables:
 
 ```
 FIREBASE_API_KEY
@@ -23,7 +23,7 @@ MAP_HOST
 
 #### Usage
 
-Use -q to define search terms.
+Use -q to define search terms and -t for types (check Google Places API for type definitions).
 For example, search cafes around 忠孝東路：
 
 ```
