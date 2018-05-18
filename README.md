@@ -8,7 +8,7 @@
 
 #### Configurations
 
-Set up (or use .env) for the following environment variables:
+Set up (or use .env, see .env.example) for the following environment variables:
 
 ```
 FIREBASE_API_KEY
