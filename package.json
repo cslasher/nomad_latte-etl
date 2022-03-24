@@ -10,6 +10,6 @@
     "dotenv": "^5.0.1",
     "firebase": "^4.12.1",
     "geofire": "^4.1.2",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.6"
   }
 }
